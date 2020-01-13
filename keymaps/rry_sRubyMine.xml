@@ -1,0 +1,145 @@
+<keymap version="1" name="rry'sRubyMine" parent="VSCode">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="ClassNameCompletion" />
+  <action id="CodeCompletion" />
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.Refresh" />
+  <action id="DecrementWindowHeight" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorPageDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorSelectLine" />
+  <action id="EditorSplitLine" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="GotoBookmark2" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift meta button1" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="HideSideWindows" />
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowHeight" />
+  <action id="IncrementWindowWidth" />
+  <action id="List-selectLastRow" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="Rerun" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
+  <action id="ScrollPane-scrollDown" />
+  <action id="ScrollPane-scrollUp" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="Table-selectLastRow" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
+</keymap>

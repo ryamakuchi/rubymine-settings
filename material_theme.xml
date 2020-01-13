@@ -1,0 +1,18 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="14" />
+    <option name="tabFontSize" value="14" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="accentColor" value="4fc08d" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="1d5346dc:16f79f1650c:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>

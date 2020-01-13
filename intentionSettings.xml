@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Ruby/Blocks/Extract block to method" />
+  </component>
+</application>
