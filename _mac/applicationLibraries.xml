@@ -207,6 +207,31 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.86.0/spec" />
       </excluded>
     </library>
+    <library name="foreman (v0.87.0, rbenv: 2.5.7) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/man" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/man" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/man" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/foreman-0.87.0/spec" />
+      </excluded>
+    </library>
     <library name="forwardable (v1.2.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
