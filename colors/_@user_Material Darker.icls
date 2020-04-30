@@ -4,55 +4,62 @@
     <property name="created">2020-01-12T01:02:15</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-04-24T13:44:48</property>
+    <property name="modified">2020-04-30T14:52:47</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="CARET_COLOR" value="4fc08d" />
+    <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="181818" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
     <option name="DOCUMENTATION_COLOR" value="212121" />
-    <option name="FILESTATUS_ADDED" value="8f9d6a" />
-    <option name="FILESTATUS_COPIED" value="8f9d6a" />
-    <option name="FILESTATUS_DELETED" value="a7a7a7" />
-    <option name="FILESTATUS_HIJACKED" value="47bc9b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_ADDED" value="859900" />
+    <option name="FILESTATUS_COPIED" value="2aa198" />
+    <option name="FILESTATUS_DELETED" value="b58900" />
+    <option name="FILESTATUS_HIJACKED" value="d33682" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="8f9d6a" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="9b859d" />
-    <option name="FILESTATUS_MODIFIED" value="f9ee98" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f9ee98" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f9ee98" />
-    <option name="FILESTATUS_OBSOLETE" value="a7a7a7" />
-    <option name="FILESTATUS_RENAMED" value="" />
-    <option name="FILESTATUS_SUPPRESSED" value="5f5a60" />
-    <option name="FILESTATUS_SWITCHED" value="9b859d" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="8f9d6a" />
-    <option name="FILESTATUS_changelistConflict" value="" />
-    <option name="FILESTATUS_modifiedOutside" value="cf6a4c" />
+    <option name="FILESTATUS_MERGED" value="6c71c4" />
+    <option name="FILESTATUS_MODIFIED" value="2aa198" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
+    <option name="FILESTATUS_OBSOLETE" value="b58900" />
+    <option name="FILESTATUS_RENAMED" value="268bd2" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="268bd2" />
+    <option name="FILESTATUS_UNKNOWN" value="d33682" />
+    <option name="FILESTATUS_addedOutside" value="d33682" />
+    <option name="FILESTATUS_changelistConflict" value="cb4b16" />
+    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
     <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
@@ -77,9 +84,9 @@
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="4fc08d" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.thumbColor" value="4fc08dc0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
@@ -252,7 +259,7 @@
     </option>
     <option name="COFFEESCRIPT.CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="4fc08d" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="COFFEESCRIPT.THIS">
@@ -337,7 +344,7 @@
     </option>
     <option name="CSS.CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="4fc08d" />
+        <option name="FOREGROUND" value="ffcb6b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -358,7 +365,7 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="4fc08d" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -444,7 +451,7 @@
     </option>
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="4fc08d" />
+        <option name="FOREGROUND" value="ffcb6b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -466,7 +473,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="4fc08d" />
+        <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -2520,7 +2527,7 @@
       <value>
         <option name="BACKGROUND" value="353535" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="4fc08d" />
+        <option name="EFFECT_COLOR" value="ffcc00" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -2924,12 +2931,12 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="4fc08d" />
+        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="4fc08d" />
+        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="RUBY_CVAR">
@@ -3393,8 +3400,8 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="212c32" />
-        <option name="BACKGROUND" value="4fc08d" />
-        <option name="EFFECT_COLOR" value="4fc08d" />
+        <option name="BACKGROUND" value="f8e71c" />
+        <option name="EFFECT_COLOR" value="f8e71c" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
