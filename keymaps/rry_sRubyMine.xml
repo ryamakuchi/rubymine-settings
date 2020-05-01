@@ -61,6 +61,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
   <action id="FileChooser.GotoHome" />
+  <action id="FileWatcher.runForFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl meta p" />
+  </action>
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
