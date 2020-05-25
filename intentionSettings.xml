@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Ruby/Blocks/Extract block to method" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>
