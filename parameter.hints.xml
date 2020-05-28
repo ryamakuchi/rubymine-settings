@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Ruby">
+        <added pattern="ActionController::Parameters.permit(filters)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
