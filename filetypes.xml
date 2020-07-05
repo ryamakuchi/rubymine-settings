@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="postgresql" type="PLAIN_TEXT" />
       <mapping pattern=".foreman" type="PLAIN_TEXT" />
       <mapping pattern="IntelliJ IDEA Global Settings" type="PLAIN_TEXT" />
     </extensionMap>
